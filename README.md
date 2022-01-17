@@ -2,7 +2,7 @@
 	<a href="https://www.python.org/" target="_blank" alt="Picture of python with link to python.org">
         	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 	</a> 
-	| 
+	 
 	<a herf="https://www.json.org/json-en.html" target="_blank" alt="Picture of json with link to json.org">
 		<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 	</a>

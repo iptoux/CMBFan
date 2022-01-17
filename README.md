@@ -1,3 +1,10 @@
+<p align="center">
+      <a href="https://www.python.org/" target="_blank" alt="Picture with link to python.org">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+      </a>
+  <hr />
+</p>
+
 # CMBFan
 
 ***WARNING! THIS PROGRAM IS A WORK IN PROGRESS! ANYTHING CAN CHANGE AT ANY MOMENT WITHOUT ANY NOTICE! USE THIS PROGRAM AT YOUR OWN RISK!***
@@ -22,10 +29,15 @@ My basic goal is, to create a program that runs on as far as every Linux system 
 ### ToDo
 
 - [x] README.md
+- [ ] Update readme.me more and more.
 - [ ] Select language (in first step, i wanna try [Python3.10](https://www.python.org/downloads/)
 - [ ] Tests some ideas. 
 - [ ] First structure
 - [ ] Read/set (temp), speed
 - [ ] Background progress (start @boot and set default user config (systemd?))
+- [ ] Install script (deb?)
+- [ ] Output of diagrams (curves)
 - [ ] Native (ASM) compile NASM felf64
 - [ ] Optimized
+
+___

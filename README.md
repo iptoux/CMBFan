@@ -22,24 +22,23 @@ In January 2022, I bought a Pi Compute Module 4 and belonging to it, Compute Mod
 
 My basic goal is, to create a program that runs on as far as every Linux system and loads user settings via a file with maybe some special additonal features like stresstest.
 
-### Targets:
 
-* Background process
-* User settings (load via file)
-* Automatic installation
-* Output of diagrams (curves (possibly picture)) of the temperature course
+### Features & Targets:
+
+- [x] Logging
+- [ ] User settings (load via file)
+- [ ] Background process
+- [ ] Automatic installation
+- [ ] Output of diagrams (curves (possibly picture)) of the temperature course
 
 ### ToDo
 
 - [x] README.md
-- [ ] Update readme.me more and more.
-- [x] Select language (in first step, i wanna try [Python3.10](https://www.python.org/downloads/)
-- [+] Tests some ideas. 
-- [+] First structure
+- [x] Select language (in first step, i wanna try [Python3.10](https://www.python.org/downloads/) 
+- [x] First structure & Main program files to test.
 - [ ] Read/set (temp), speed
 - [ ] Background progress (start @boot and set default user config (systemd?))
 - [ ] Install script (deb?)
 - [ ] Output of diagrams (curves)
-- [ ] Native (ASM) compile NASM felf64*
 - [ ] Optimized
-
+- [ ] Update readme.me more and more.

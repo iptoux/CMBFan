@@ -37,8 +37,16 @@ My basic goal is, to create a program that runs on as far as every Linux system 
 - [x] Select language (in first step, i wanna try [Python3.10](https://www.python.org/downloads/) 
 - [x] First structure & Main program files to test.
 - [ ] Read/set (temp), speed
-- [ ] Background progress (start @boot and set default user config (systemd?))
+- [ ] Background process (start @boot and set default user config (systemd?))
 - [ ] Install script (deb?)
 - [ ] Output of diagrams (curves)
 - [ ] Optimized
 - [ ] Update readme.me more and more.
+
+### Issue's & Discuss
+
+If you use this program, please keep in mind that it is in work in process. Serious errors may occur. You can file a bug report [here](https://github.com/iptoux/CMBFan/issues) (please check first if there is already a bug/issue/incident). 
+
+Thanks :slightly_smiling_face:
+
+You are invited in this comunity and can creat or follow any discussion [here](https://github.com/iptoux/CMBFan/discussions)

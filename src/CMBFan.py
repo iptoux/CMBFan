@@ -5,11 +5,12 @@
 #   
 #   With this program, you'r be able to full control your case fan in
 #   addition with an CM I/O Board. Please see in Projects on github 
-#   https://github.com/iptoux/CMBFan/projects?type=beta 
+#   https://github.com/iptoux/CMBFan/projects
 #
 #   @version: 0.1-a
 #   @license: MIT   ->  https://github.com/iptoux/CMBFan/blob/main/LICENSE
 #   @author: Maik Roland <iptoux> Damm  |   https://github.com/iptoux/CMBFan
+#   @help: https://github.com/iptoux/CMBFan/discussions
 #
 #################################################################################
 
